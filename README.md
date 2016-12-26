@@ -1,5 +1,8 @@
 |`Features`|`Meteor JS`|`Derby JS`|
 |------------------|-----------|-----------|
-|`Databases`|Meteor database|derby database|
-|`Server side rensdering`|Meteor rendering| Derby rendering|
-|`Front-End Stack`| | |
+|`Databases`|  |  |
+|`Server side rensdering`|  |   |
+|`Front-End Stack`|   |   |
+|`Underlying protocol`|   |   |
+|`Template'|   |    |
+|`Latency Comparison`|     |    |
