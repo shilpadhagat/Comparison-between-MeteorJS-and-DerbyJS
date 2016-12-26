@@ -1,6 +1,6 @@
-|`npm run <script>`|Description|
+|`Feature`| MeteorJS | Derby|
 |------------------|-----------|
-|`start`|Serves your app at `localhost:3000`. HMR will be enabled in development.|
+|`Databases`|Mongo DB|Mongo DB|
 |`compile`|Compiles the application to `dist/`.|
 |`dev`|Same as `npm start`, but enables nodemon for the server as well.|
 |`dev:no-debug`|Same as `npm run dev` but disables devtool instrumentation.|
