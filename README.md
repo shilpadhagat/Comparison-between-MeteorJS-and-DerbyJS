@@ -1,3 +1,3 @@
-|`Meteor`|`Derby`|`Mean`|
+|'Features`|`Meteor JS`|`Derby JS`|
 |------------------|-----------|-----------|
-|`start`|Serves your app at `localhost:3000`. HMR will be enabled in development.|Okay|
+|`Databases`|Serves your app at `localhost:3000`. HMR will be enabled in development.|Okay|
