@@ -4,5 +4,7 @@
 |`Server side rensdering`|  |   |
 |`Front-End Stack`|   |   |
 |`Underlying protocol`|   |   |
-|`Template'|   |    |
+|`Template`|   |    |
 |`Latency Comparison`|     |    |
+|`Browser Dependency`|     |    |
+|`Performance Evaluation`|     |    |
