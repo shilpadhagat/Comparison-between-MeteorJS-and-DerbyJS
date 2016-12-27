@@ -2,7 +2,7 @@
 
 |`Features`|`Meteor JS`|`Derby JS`|
 |------------------|-----------|-----------|
-|`Databases`|  |  |
+|`Databases`| Meteor supports MongoDB natively. Although future databse support is possible with FalthomDB and MySQL. Meteor supports Redis.io in beta.  |  |
 |`Server side rensdering`|  |   |
 |`Front-End Stack`|   |   |
 |`Underlying protocol`|   |   |
